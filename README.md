@@ -11,6 +11,7 @@ This project contains a set of Bash scripts to automate the deployment of a Java
 ├── deploy.sh       # Main deployment script to be run locally.
 ├── setup.sh        # User-data script that runs on the EC2 instance.
 └── README.md       # This file.
+└── resurces/postman_collection # added the postman collection of the test application data
 ```
 
 ---
