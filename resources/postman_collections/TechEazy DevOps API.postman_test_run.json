@@ -1,0 +1,52 @@
+{
+	"id": "c672516f-27e0-41e9-b5a0-d5efc2a3b534",
+	"name": "TechEazy DevOps API",
+	"timestamp": "2025-07-25T18:29:23.699Z",
+	"collection_id": "47079397-4952db98-fef3-43b4-b605-dbdec7c4d611",
+	"folder_id": 0,
+	"environment_id": "0",
+	"totalPass": 0,
+	"delay": 0,
+	"persist": true,
+	"status": "finished",
+	"startedAt": "2025-07-25T18:29:20.809Z",
+	"totalFail": 0,
+	"results": [
+		{
+			"id": "7638c302-76c7-47f2-b8e4-d842ca484706",
+			"name": "Get Hello Message",
+			"url": "http://184.72.190.63:80/hello",
+			"time": 291,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				581,
+				272,
+				269,
+				282,
+				291
+			],
+			"allTests": [
+				{},
+				{},
+				{},
+				{},
+				{}
+			]
+		}
+	],
+	"count": 5,
+	"totalTime": 1695,
+	"collection": {
+		"requests": [
+			{
+				"id": "7638c302-76c7-47f2-b8e4-d842ca484706",
+				"method": "GET"
+			}
+		]
+	}
+}
